@@ -64,3 +64,23 @@
 - Ensure that the NI-DAQmx driver is correctly installed.
 - Verify that the correct channels are selected in the GUI, and check the physical wiring for input/output ports.
 - If signals are not displaying or generating as expected, check the acquisition rate and hardware setup.
+
+## Code:
+![image](https://github.com/user-attachments/assets/d9119c43-d774-401e-95a8-d3fea57a441b)
+
+![image](https://github.com/user-attachments/assets/b22328f1-00eb-49c0-bb05-0c67e69b2130)
+
+...
+
+![image](https://github.com/user-attachments/assets/c16e1e52-04ea-4b36-b663-e6e0a79ce326)
+
+...
+
+![image](https://github.com/user-attachments/assets/8b18505c-36a7-4489-88e5-1b7360e87faa)
+
+...
+
+![image](https://github.com/user-attachments/assets/e869a3b0-adc3-4b58-89cf-66ee9e92fa19)
+
+## Program view:
+![image](https://github.com/user-attachments/assets/f5f2fc3d-2bb0-4f6e-b024-75d95625c67f)
